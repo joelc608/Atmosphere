@@ -18,5 +18,5 @@ The process for building Atmosphère is similar to building Fusée Gelée payloa
 + If you do not currently have DevkitA64 and DevkitARM installed, you can install both of these with the graphical installer [here](https://github.com/devkitPro/installer/releases)
 + Clone the Atmosphère repo
 
-###Building
+### Building
 + Change to the Atmosphère directory and run `make`.
