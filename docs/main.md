@@ -8,3 +8,5 @@ The components of Atmosphère are:
 + [Stratosphère](../docs/components/stratosphere.md), a set of custom system modules
 + [Troposphère](../docs/components/troposphere.md), Application-level patches to the Horizon OS. This has not been implemented yet.
 + [Thermosphère](../docs/components/thermosphere.md), a hypervisor-based emunand implementation.
+
+A guide to building Atmosphère can be found [here](../docs/building.md).
