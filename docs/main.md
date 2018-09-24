@@ -1,4 +1,4 @@
-# Atmosphère Docs
+# Atmosphère Documentation
 
 Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. Atmosphere consists of several different components, each in charge of performing different system functions of the Nintendo Switch.
 
