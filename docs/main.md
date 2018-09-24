@@ -4,7 +4,7 @@ Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. A
 
 The components of Atmosphère are:
 + [Fusée](../docs/components/fusee.md), a custom bootloader.
-+ Exosphère, a fully-featured custom secure monitor.
-+ Stratosphère, a set of custom system modules
-+ Troposphère, Application-level patches to the Horizon OS. This has not been implemented yet.
-+ Thermosphère, a hypervisor-based emunand implementation.
++ [Exosphère](../docs/components/exosphere.md), a fully-featured custom secure monitor.
++ [Stratosphère](../docs/components/stratosphere.md), a set of custom system modules
++ [Troposphère](../docs/components/troposphere.md), Application-level patches to the Horizon OS. This has not been implemented yet.
++ [Thermosphère](../docs/components/thermosphere.md), a hypervisor-based emunand implementation.
